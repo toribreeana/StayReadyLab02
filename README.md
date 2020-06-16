@@ -1,4 +1,5 @@
-# Scientific Calculator
+# Stay Ready Lab 02
+## The Scientific Calculator
 
 ## Description
 * **Objective** - To implement an `ScientificCalculator` which displays output of basic and scientific computations.
