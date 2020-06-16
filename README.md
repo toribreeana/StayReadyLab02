@@ -3,8 +3,6 @@
 
 ## Description
 * **Objective** - To implement an `ScientificCalculator` which displays output of basic and scientific computations.
-* **Purpose** - To establish familiarity with:
-  * Object `state`
 
 
 ## Requirements
