@@ -1,10 +1,13 @@
-package com.codedifferently;
+package io.codedifferently;
 
 import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
-public class SciCalculatorTest 
+/**
+ * Unit test for simple App.
+ */
+public class AppTest 
 {
     /**
      * Rigorous Test :-)
